@@ -1,8 +1,8 @@
-\# Project Scope
+\Project Scope
 
 
 
-\## Project Objective
+\Project Objective
 
 
 
@@ -10,21 +10,21 @@ Our project objective is to provide a centralized platform for managing the univ
 
 
 
-\## Target Users
+\ Target Users
 
 
 
-\- \*\*Students:\*\* Apply for internships, view their placement information, and submit weekly logbooks.
+\ Students: Apply for internships, view their placement information, and submit weekly logbooks.
 
-\- \*\*Internship Coordinators:\*\* Manage student applications and placements, assign supervisors, and monitor overall internship progress.
+\- Internship Coordinators: Manage student applications and placements, assign supervisors, and monitor overall internship progress.
 
-\- \*\*Academic Supervisors:\*\* Monitor assigned students, review weekly logbooks, provide feedback, and follow academic progress.
+\- Academic Supervisors: Monitor assigned students, review weekly logbooks, provide feedback, and follow academic progress.
 
-\- \*\*Company Supervisors:\*\* Supervise students at the workplace, review relevant progress information, and provide feedback on student performance.
+\- Company Supervisors: Supervise students at the workplace, review relevant progress information, and provide feedback on student performance.
 
 
 
-\## In-Scope Features
+\ In-Scope Features
 
 
 
@@ -48,7 +48,7 @@ Our project objective is to provide a centralized platform for managing the univ
 
 
 
-\## Out-of-Scope Features
+\ Out-of-Scope Features
 
 
 
@@ -62,7 +62,7 @@ Our project objective is to provide a centralized platform for managing the univ
 
 
 
-\## Major Deliverables
+\ Major Deliverables
 
 
 
