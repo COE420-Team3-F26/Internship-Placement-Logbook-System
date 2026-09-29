@@ -35,9 +35,25 @@ UC-10: Assign Internship Supervisors - Coordinator assigns academic and company 
 
 
 
+* Ahmad Amin Contributions
+
+
+UC-11: Manage Internship Placement - Coordinator creates and updates internship placement information including company and internship dates.
+
+UC-12: View Internship Status - Student views application status, placement details, and assigned supervisors.
+
+UC-13: Upload Internship Documents - Student uploads required documents related to the internship application or placement.
+
+UC-14: Track Internship Progress - Student, internship coordinator, and academic supervisor monitor completed internship weeks and logbook submission status.
+
+UC-15: Filter Student Internship Records - Coordinator filters students based on application or placement status.
+
+UC-16: Request Logbook Revision - The academic supervisor requests a revision when a submitted weekly logbook contains issues or requires corrections.
+
+
+
 
 * Miriam Almimi and Raghad Diab Contribution
-
 
 
 UC-17: Upload Additional Documents - The student uploads additional documents when they are requested or required for a specific internship application. 
@@ -45,7 +61,6 @@ UC-17: Upload Additional Documents - The student uploads additional documents wh
 
 
 * Use Case Relationships
-
 
 
 R-01: Submit Internship Application <<include>> Upload Internship Documents - When a student submits an application, uploading required documents is always part of completing the application process. 

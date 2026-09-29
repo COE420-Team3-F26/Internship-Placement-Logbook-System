@@ -34,3 +34,20 @@ NFR-09: Performance - The system should load dashboards, placement information, 
 
 NFR-10: Recoverability - Internship application, placement, logbook, and feedback data should be backed up at least once every 24 hours to allow important data to be recovered in case of system failure, corruption, or accidental loss.
 
+
+
+
+
+* Ahmad Amin Contributions
+
+
+
+NFR-11: Usability - The system should allow first-time users to complete the main tasks relevant to their role without requiring separate training or a user manual.
+
+NFR-12: Availability - The system should remain accessible to users throughout the academic semester whenever they need to submit, review, or manage internship information, except during scheduled maintenance periods.
+
+NFR-13: Maintainability - The system should use a modular software structure so that changes to one major function, such as logbook management or internship applications, can be made without requiring changes to unrelated modules.
+
+NFR-14: Accessibility - The system should support keyboard navigation for all major forms, buttons, and navigation controls so that core functionality can be used without a mouse.
+
+NFR-15: Response Time - The system should display confirmation or error feedback within 2 seconds after a user submits an internship application, weekly logbook, or feedback form under normal operating conditions.

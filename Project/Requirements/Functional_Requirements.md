@@ -30,3 +30,17 @@ FR-09: The system should allow students to submit a feedback form about their in
 
 FR-10: The system should allow internship coordinators to assign an academic supervisor and a company supervisor to a student. 
 
+
+
+* Ahmad Amin Contributions
+
+FR-11: The system shall allow an internship coordinator to create, update, and maintain a student's internship placement record, including the company details, internship position, start date, and end date.
+
+FR-12: The system shall allow a student to view their current internship application and placement status, and their assigned academic and company supervisors.
+
+FR-13: The system shall allow students to upload required internship-related documents and associate them with their internship application or placement record.
+
+FR-14: The system shall display each student's internship progress by showing completed internship weeks and the status of each weekly logbook, such as not submitted, submitted, approved, or revision required.
+
+FR-15: The system shall allow an internship coordinator to filter students based on internship application or placement status, such as submitted, approved, rejected, etc.
+
