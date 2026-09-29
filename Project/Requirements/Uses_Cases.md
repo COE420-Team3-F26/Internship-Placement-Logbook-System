@@ -19,18 +19,18 @@ UC-05: Submit Company Feedback - Company supervisor evaluates student performanc
 
 
 
+* Raghad Diab Contributions
 
 
+UC-06: Submit Weekly Logbook - Student creates and submits weekly internship progress records.
 
+UC-07: Review and Approve Logbook - Academic supervisor reviews logbooks, adds comments, and approves or requests revision. 
 
+UC-08: Receive Notifications - Users receive reminders about pending submissions, revisions, or reviews. 
 
-
-
-
-
-
-
-
+UC-09: Submit Student Feedback - Student submits feedback about the internship experience after completion.
+ 
+UC-10: Assign Internship Supervisors - Coordinator assigns academic and company supervisors to a student placement. 
 
 
 
