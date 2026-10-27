@@ -6,7 +6,7 @@ Miriam's part included User, Student, InternshipCoordinator, InternshipApplicati
 
 Raghad's part included Supervisor, AcademicSupervisor, CompanySupervisor, WeeklyLogbook, and Notification. These were connected to internships, students, and the logbook review process.
 
-Ahmad's part included InternshipPlacement, Company, InternshipDocument, and InternshipProgress. We renamed InternshipPlacement to Internship in the combined diagram and connected it to the application, company, supervisors, and logbooks.
+Ahmad's part included Internship, Company, InternshipDocument, and InternshipProgress. In the combined diagram we connected it to the application, company, supervisors, and logbooks.
 
 All 14 classes from the individual inventories are included in the combined diagram. We kept shared classes in one place and retained the inheritance relationships for the user and supervisor roles.
 
