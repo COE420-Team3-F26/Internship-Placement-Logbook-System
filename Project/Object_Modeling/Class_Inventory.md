@@ -42,3 +42,18 @@ C10: Notification| Represents system notifications and reminders related to miss
 
 
 
+Student: Ahmad Amin
+
+ID: b00100178
+
+C11: Internship | Stores a student's approved placement details, dates, status, and supervisor assignments.
+Related use cases: UC-10, UC-11, UC-12
+
+C12: Company | Stores company details for an internship placement.
+Related use cases: UC-11
+
+C13: Internship Document | Represents a document uploaded for an internship and stores document details.
+Related use cases: UC-13, UC-17
+
+C14: Internship Progress | Provides a summary of completed internship weeks and overall internship progress.
+Related use cases: UC-14
