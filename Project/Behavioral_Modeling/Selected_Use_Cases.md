@@ -6,5 +6,5 @@ UC-02|Submit Internship Application |PA: Student| Allows a student to complete a
 
 
 
-
+UC-07|Review and Approve Logbook |PA: Academic Supervisor| Allows the academic supervisor to review each submitted weekly logbook, add comments, and either approve it or request a revision.| It is the core of the weekly monitoring process (FR-04, FR-07, FR-08). It includes UC-04 (View Weekly Logbooks), is extended by UC-16 (Request Logbook Revision), has two different outcomes, and sends a notification to the student when a revision is requested.
 
