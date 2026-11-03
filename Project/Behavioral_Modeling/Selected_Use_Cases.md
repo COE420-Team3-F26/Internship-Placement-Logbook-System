@@ -8,3 +8,6 @@ UC-02|Submit Internship Application |PA: Student| Allows a student to complete a
 
 UC-07|Review and Approve Logbook |PA: Academic Supervisor| Allows the academic supervisor to review each submitted weekly logbook, add comments, and either approve it or request a revision.| It is the core of the weekly monitoring process (FR-04, FR-07, FR-08). It includes UC-04 (View Weekly Logbooks), is extended by UC-16 (Request Logbook Revision), has two different outcomes, and sends a notification to the student when a revision is requested.
 
+
+
+UC-11|Manage Internship Placement |PA: Internship Coordinator| Allows the internship coordinator to create a placement record for an approved application and assign the academic and company supervisors.| It links applications to placements, companies, and supervisors (FR-10, FR-11). It includes UC-10 (Assign Internship Supervisors), involves the most classes, and only an approved application can become a placement.
